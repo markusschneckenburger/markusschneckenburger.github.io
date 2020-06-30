@@ -7,3 +7,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum magna ru
 * Trait Y
 * Traits A,B,C
 * Trait H \-> TraitG
+
+> ..............................................................
+> ..............................................................
